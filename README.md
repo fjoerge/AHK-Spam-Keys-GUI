@@ -5,11 +5,15 @@ Settings are saved and can be reused across sessions.
 
 Use it so your fingers don't hurt so much :)
 
+----------------------------------------------------------
+
 Features
 - Toggle multiple keys on/off with one hotkey.
 - Per-key interval (ms) so each key can run at a different speed.
 - Persistent configuration via INI (portable-friendly).
 - Designed to be simple to set up and quick to adjust.
+
+----------------------------------------------------------
 
 Getting started
 - Run the script (or compiled EXE).
@@ -17,9 +21,9 @@ Getting started
 - Set the interval per key and click Save.
 - Use the toggle hotkey to start/stop sending inputs.
 
+----------------------------------------------------------
+
 Configuration
 - Config is stored in an INI file (either next to the script/EXE or in your chosen config path).
-
-Initial SpamKeyConfig.ini can be deleted and will be created again by script
-
-Change to your needs in GUI
+- Initial SpamKeyConfig.ini can be deleted and will be created again by script
+- Change to your needs in the GUI
