@@ -10,17 +10,20 @@ Use it so your fingers don't hurt so much :)
 
 Features
 - Toggle multiple keys on/off with one hotkey.
+- Keys (de-)activate when changing Checkbox.
 - Per-key interval (ms) so each key can run at a different speed.
-- Persistent configuration via INI (portable-friendly).
-- Designed to be simple to set up and quick to adjust.
+- F1/F2 = Spam Left-/Rightclick.
+- F3 = Spam ctrl + Leftclick.
+- Persistent configuration via INI.
 
 ----------------------------------------------------------
 
 Getting started
 - Run the script (or compiled EXE).
 - Pick your toggle hotkey and enable the keys you want to repeat.
-- Set the interval per key and click Save.
+- Set the interval per key
 - Use the toggle hotkey to start/stop sending inputs.
+- Save As.. if you want to save your profile
 
 ----------------------------------------------------------
 
